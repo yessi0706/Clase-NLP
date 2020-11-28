@@ -1,7 +1,5 @@
 ## PROYECTOS NLP 2020
 
-You can use the [editor on GitHub](https://github.com/yessi0706/Clase-NLP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 Hola, mi nombre es Yessica González y sean Bienvenidos a mi repositorio. Soy una Analista de Datos en formación. Les estaré compartiendo proyectos y avances en mi formación como analista de datos y serán testigos de mi proceso y aprendizaje. 
 
 ### 1. Adquisición de textos
