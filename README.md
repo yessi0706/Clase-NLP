@@ -1,4 +1,4 @@
-# Yessi-s-Repository
+# Clase NLP
 # 1. Adquisición de textos 
 (https://github.com/yessi0706/Clase-NLP/blob/master/Taller%202_NLP_Yessica%20Lorena%20Gonzalez.ipynb)
 Se muestra el proceso a realizarse para la obtención de textos a través de la lectura de diferntes tipos de archivos y uso del web scrapping.
